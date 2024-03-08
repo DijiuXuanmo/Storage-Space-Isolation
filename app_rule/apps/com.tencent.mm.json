@@ -1,0 +1,25 @@
+{
+    "package": "com.tencent.mm",
+    "verified": false,
+    "authors": [
+        "Xuanmo"
+    ],
+    "last_update": {
+        "timestamp": 1704038400
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "accessible_folders": {
+    "data": {
+      "wexposed": {
+        "paths": [
+          "WechatXposed"
+        ],
+        "target_package": "com.tencent.mm",
+        "source_package": "com.fkzhang.wechatxposed"
+            }
+        }
+    }
+}

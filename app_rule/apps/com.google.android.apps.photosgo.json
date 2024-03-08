@@ -1,0 +1,13 @@
+{
+    "package": "com.google.android.apps.photosgo",
+    "verified": false,
+    "authors": [
+        "Xuanmo"
+    ],
+    "last_update": {
+        "timestamp": 1704038400
+    },
+    "recommendation": "@depends_on_situations",
+    "behaviors": [
+    ]
+}

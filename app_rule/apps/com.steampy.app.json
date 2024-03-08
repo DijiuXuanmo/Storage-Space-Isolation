@@ -1,0 +1,14 @@
+{
+    "package": "com.steampy.app",
+    "verified": false,
+    "authors": [
+        "Xuanmo"
+    ],
+    "last_update": {
+        "timestamp": 1704038400
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

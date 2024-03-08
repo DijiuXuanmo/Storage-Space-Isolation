@@ -1,0 +1,14 @@
+{
+    "package": "com.paragon.tcplugins_ntfs_ro",
+    "verified": true,
+    "authors": [
+        "Xuanmo"
+    ],
+    "last_update": {
+        "timestamp": 1704038400
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

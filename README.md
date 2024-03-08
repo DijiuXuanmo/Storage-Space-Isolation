@@ -1,2 +1,9 @@
 # Storage-Space-Isolation
-Storage Isolation:elegantly solve the problem of bad apps abusing storage permissions;Third-party "Storage Isolation" online rules.
+
+Assets for Storage Isolation App
+
+Website:https://sr.rikka.app/
+
+Library:https://github.com/RikkaApps/StorageRedirect-assets
+
+Download:https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage
