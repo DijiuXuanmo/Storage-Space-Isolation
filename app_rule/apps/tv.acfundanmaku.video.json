@@ -1,14 +1,14 @@
 {
-    "package": "com.google.android.apps.photos",
-    "verified": true,
+    "package": "tv.acfundanmaku.video",
+    "verified": false,
     "authors": [
         "Xuanmo"
     ],
     "last_update": {
         "timestamp": 1704038400
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+        "@abuse"
     ]
 }

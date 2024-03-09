@@ -1,5 +1,5 @@
 {
-    "package": "com.google.android.apps.photos",
+    "package": "com.ct.client",
     "verified": true,
     "authors": [
         "Xuanmo"
@@ -7,8 +7,8 @@
     "last_update": {
         "timestamp": 1704038400
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+        "@abuse"
     ]
 }
