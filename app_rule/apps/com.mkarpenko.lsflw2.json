@@ -1,14 +1,14 @@
 {
-    "package": "com.xingin.xhs",
-    "verified": false,
+    "package": "com.mkarpenko.lsflw2",
+    "verified": true,
     "authors": [
         "Xuanmo"
     ],
     "last_update": {
         "timestamp": 1704038400
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "@abuse"
+        "@standard"
     ]
 }
