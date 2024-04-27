@@ -1,14 +1,14 @@
 {
-    "package": "com.music.moment",
-    "verified": true,
+    "package": "com.baidu.netdisk",
+    "verified": false,
     "authors": [
         "Xuanmo"
     ],
     "last_update": {
         "timestamp": 1704038400
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+        "@abuse"
     ]
 }
