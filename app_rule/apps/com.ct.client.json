@@ -7,8 +7,8 @@
     "last_update": {
         "timestamp": 1704038400
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "@abuse"
+        "@standard"
     ]
 }
