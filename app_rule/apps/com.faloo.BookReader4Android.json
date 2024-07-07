@@ -1,14 +1,14 @@
 {
     "package": "com.faloo.BookReader4Android",
-    "verified": false,
+    "verified": true,
     "authors": [
         "Xuanmo"
     ],
     "last_update": {
         "timestamp": 1704038400
     },
-    "recommendation": "@recommendation",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "@abuse"
+        "@standard"
     ]
 }
