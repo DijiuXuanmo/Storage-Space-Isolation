@@ -10,16 +10,5 @@
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
-    ],
-    "accessible_folders": {
-    "data": {
-      "wexposed": {
-        "paths": [
-          "WechatXposed"
-        ],
-        "target_package": "com.tencent.mm",
-        "source_package": "com.fkzhang.wechatxposed"
-            }
-        }
-    }
+    ]
 }
