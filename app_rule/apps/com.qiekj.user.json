@@ -1,0 +1,14 @@
+{
+    "package": "com.qiekj.user",
+    "verified": true,
+    "authors": [
+        "Xuanmo"
+    ],
+    "last_update": {
+        "timestamp": 1704038400
+    },
+    "recommendation": "@recommendation",
+    "behaviors": [
+        "@abuse"
+    ]
+}
